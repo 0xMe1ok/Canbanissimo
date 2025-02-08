@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "L5anlxxRyaVmNsu4s8bO1JqnLIE+XOyaglFtc+DBZJw=",
+  "Source": "Canbanissimo.API",
+  "BasePath": "_content/Canbanissimo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

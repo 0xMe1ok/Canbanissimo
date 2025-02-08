@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Canbanissimo.Domain/1.0.0": {
+        "runtime": {
+          "Canbanissimo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Canbanissimo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\bin\Debug\net9.0\Canbanissimo.Infrastructure.deps.json
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\bin\Debug\net9.0\Canbanissimo.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\bin\Debug\net9.0\Canbanissimo.Infrastructure.pdb
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\refint\Canbanissimo.Infrastructure.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\Canbanissimo.Infrastructure.pdb
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Infrastructure\obj\Debug\net9.0\ref\Canbanissimo.Infrastructure.dll

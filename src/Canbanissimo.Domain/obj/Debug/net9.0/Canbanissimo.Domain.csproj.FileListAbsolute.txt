@@ -1,0 +1,11 @@
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\bin\Debug\net9.0\Canbanissimo.Domain.deps.json
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\bin\Debug\net9.0\Canbanissimo.Domain.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\bin\Debug\net9.0\Canbanissimo.Domain.pdb
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\refint\Canbanissimo.Domain.dll
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\Canbanissimo.Domain.pdb
+C:\Users\ASUS\RiderProjects\Canbanissimo\Canbanissimo.Domain\obj\Debug\net9.0\ref\Canbanissimo.Domain.dll
