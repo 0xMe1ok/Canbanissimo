@@ -1,9 +1,9 @@
 using Canbanissimo.Application.DTOs.Common;
 using Canbanissimo.Application.Enum;
 
-namespace Canbanissimo.Application.DTOs;
+namespace Canbanissimo.Application.DTOs.Kanban;
 
-public class CanbanTaskDto : BaseDto
+public class KanbanTaskDto : BaseDto
 {
     public string Title { get; set; }
     public string Description { get; set; }

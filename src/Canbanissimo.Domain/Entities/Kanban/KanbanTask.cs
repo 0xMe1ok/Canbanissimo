@@ -2,9 +2,9 @@ using Canbanissimo.Domain.Common;
 using Canbanissimo.Domain.Entities.Users;
 using Canbanissimo.Domain.Enum;
 
-namespace Canbanissimo.Domain.Entities.Canban;
+namespace Canbanissimo.Domain.Entities.Kanban;
 
-public class CanbanTask : BaseDomainEntity
+public class KanbanTask : BaseDomainEntity
 {
     public string Title { get; set; }
     public string Description { get; set; }
@@ -19,7 +19,7 @@ public class CanbanTask : BaseDomainEntity
     public Guid? AssigneeId { get; set; }  
 
     // Navigation
-    public CanbanColumn Column { get; set; }
+    public KanbanColumn Column { get; set; }
     public User Creator { get; set; }
     public User? Assignee { get; set; }
 }

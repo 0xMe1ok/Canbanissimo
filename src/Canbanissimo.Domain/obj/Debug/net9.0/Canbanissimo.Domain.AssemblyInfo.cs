@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Canbanissimo.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe1e09eda5fed51952e76dc6ee378c4f86c93c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Canbanissimo.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Canbanissimo.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

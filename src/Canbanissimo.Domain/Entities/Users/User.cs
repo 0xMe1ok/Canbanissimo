@@ -10,7 +10,6 @@ public class User : BaseDomainEntity
     public DateTime CreatedAt { get; set; }
 
     // Navigation
-    public List<GroupUser> GroupUsers { get; set; } 
-    public List<Group> Groups { get; set; }
+    public List<Group> GroupsIn { get; set; }
     public List<Task> AssignedTasks { get; set; } 
 }

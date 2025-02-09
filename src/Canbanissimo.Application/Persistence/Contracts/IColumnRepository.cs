@@ -1,8 +1,8 @@
-using Canbanissimo.Domain.Entities.Canban;
+using Canbanissimo.Domain.Entities.Kanban;
 
 namespace Canbanissimo.Application.Persistence.Contracts;
 
-public interface IColumnRepository : IGenericRepository<CanbanColumn>
+public interface IColumnRepository : IGenericRepository<KanbanColumn>
 {
     
 }
